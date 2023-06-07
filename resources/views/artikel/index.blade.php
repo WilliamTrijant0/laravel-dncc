@@ -19,7 +19,7 @@
                                 <th class="border-b font-medium p-4 pl-8 pt-0 pb-3 text-slate-400 text-left">Action</th>
                             </tr>
                         </thead>
-                        <tbody class="bg-white">
+                        <tbody class="bg-white" >
                             {{-- populate our post data --}}
                             @foreach ($artikels as $artikel)
                                 <tr>
